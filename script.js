@@ -50,7 +50,7 @@ hiddenDice();
 
 function showDice(dice) {
   dice_Element.classList.remove('hidden');
-  dice_Element.src = 'dice-' + dice + '.png';
+  dice_Element.src = './images/dice-' + dice + '.png';
 }
 
 function setCurrentScore(score) {
