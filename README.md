@@ -23,3 +23,13 @@ But remember, if you roll 1 you loose you turn and the play score that you had a
 - CSS
 
 ## Preview
+
+### Start Game
+![Start Game](./gif/pig-game-1.gif)
+
+### In between Game
+![Game part 2](./gif/pig-game-2.gif)
+![Game Part 3](./gif/pig-game-3.gif)
+![Game Part 4](./gif/pig-game-4.gif)
+### Win
+![Game Win](./gif/pig-game-5.gif)
